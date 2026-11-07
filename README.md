@@ -236,3 +236,5 @@ The reporting interface is organized across three dedicated report pages in Powe
    * Open `subscription_analytics.pbix` in **Power BI Desktop**.
    * If local CSV file paths differ, select **Transform Data $\rightarrow$ Data source settings** and update the source directory path to your local data folder.
    * Click **Refresh** to process all transformations, relationships, and visual layers.
+
+LIVE DASHBOARD - https://app.powerbi.com/view?r=eyJrIjoiOWE2MzI1M2UtNWUzMS00ZTAxLWI4MzctNjljMTA4N2Q5OTRmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
